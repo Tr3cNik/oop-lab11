@@ -28,6 +28,6 @@ public final class Test {
      *            unused
      */
     public static void main(final String... args) {
-        new AnotherConcurrentGUI();
+        new AnotherConcurrentGUI().setGUI();
     }
 }
